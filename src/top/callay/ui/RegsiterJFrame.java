@@ -1,7 +1,6 @@
 package top.callay.ui;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class RegsiterJFrame extends JFrame {
 
