@@ -261,10 +261,10 @@ public class GameJFrame extends JFrame implements KeyListener, ActionListener {
                     return false;
                 }
             }
-        };
+        }
         return true;
 
-    };
+    }
 
     @Override
     public void actionPerformed(ActionEvent e) {
